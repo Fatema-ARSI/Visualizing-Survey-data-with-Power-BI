@@ -1,7 +1,7 @@
 # Visualizing-Forms-data-with-Power-BI
 
 ## Project Overview:
-- Live straming Visualisation with Power BI using Microsoft Forme and Microsoft Flow.
+- Live streaming Visualization with Power BI using Microsoft Form and Microsoft Flow.
 
 ## Tasks
 
