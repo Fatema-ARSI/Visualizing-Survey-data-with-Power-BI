@@ -10,6 +10,9 @@
 [Click to go to form.](https://forms.office.com/Pages/ResponsePage.aspx?id=ZXg2P40lY0uwdKtsifXvxRk_YJAC6clAtS2DYMylNhRURExTSExGTzNERkNEREFPNlVYOE5ZSkZZNy4u)
 
 * Set up a blank trigger on Microsoft Flow to get the responses from the surveyed forms and pushed them  into a Power BI streaming dataset.
+
+<img src='flow.png' width='300' height='300'>
+
 * Built out a dashboard page with the summary info in it like number of responses, participants 's  quality of sleep, average hours of sleep taken by them, etc. on Power BI to get a live view of the responses.
 
 <img src='Powerbi.png' width='900' height='500'>
