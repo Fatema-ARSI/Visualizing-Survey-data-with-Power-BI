@@ -1,4 +1,4 @@
-# Visualizing-Forms-data-with-Power-BI
+# Visualizing-Survey-data-with-Power-BI
 
 ## Project Overview:
 - Live streaming Visualization with Power BI using Microsoft Form and Microsoft Flow.
