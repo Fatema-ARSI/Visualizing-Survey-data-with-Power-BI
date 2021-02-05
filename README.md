@@ -17,6 +17,6 @@
 
 <img src='project5.png' width='900' height='500'>
 
-[Link to the Power Bi Report](https://app.powerbi.com/reportEmbed?reportId=bffa942d-f62a-4771-b232-98ca9a76fb2d&autoAuth=true&ctid=3f367865-258d-4b63-b074-ab6c89f5efc5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWZyYW5jZS1jZW50cmFsLWEtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
+[Link to the Power Bi Report](https://app.powerbi.com/groups/me/dashboards/3e21e367-e9cb-480e-8b58-6e69e129976c)
 
 
